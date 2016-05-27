@@ -15,6 +15,16 @@
 		1C88D1381CB2D02C0021207D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C88D1361CB2D02C0021207D /* LaunchScreen.storyboard */; };
 		1C88D1431CB2D02D0021207D /* bananaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C88D1421CB2D02D0021207D /* bananaTests.m */; };
 		1C88D14E1CB2D02D0021207D /* bananaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C88D14D1CB2D02D0021207D /* bananaUITests.m */; };
+		1C88D15D1CB348390021207D /* banana.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C88D15C1CB348390021207D /* banana.m */; settings = {ASSET_TAGS = (); }; };
+		1C88D1601CB35BAC0021207D /* DrawCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C88D15F1CB35BAC0021207D /* DrawCircle.m */; settings = {ASSET_TAGS = (); }; };
+		1C88D1631CB35EFC0021207D /* QuartHuman.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C88D1621CB35EFC0021207D /* QuartHuman.m */; settings = {ASSET_TAGS = (); }; };
+		1CC772551CF3704F00B1B349 /* QQ图片20160520015706.png in Resources */ = {isa = PBXBuildFile; fileRef = 1CC772541CF3704F00B1B349 /* QQ图片20160520015706.png */; settings = {ASSET_TAGS = (); }; };
+		1CC7725A1CF3EB3100B1B349 /* LoginVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC772591CF3EB3100B1B349 /* LoginVC.m */; settings = {ASSET_TAGS = (); }; };
+		1CC7725D1CF3EBC700B1B349 /* ContactTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC7725C1CF3EBC700B1B349 /* ContactTVC.m */; settings = {ASSET_TAGS = (); }; };
+		1CC772601CF3EBE600B1B349 /* addContactVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC7725F1CF3EBE600B1B349 /* addContactVC.m */; settings = {ASSET_TAGS = (); }; };
+		1CC7727A1CF3FA2A00B1B349 /* MBProgressHUD+NJ.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC772761CF3FA2A00B1B349 /* MBProgressHUD+NJ.m */; settings = {ASSET_TAGS = (); }; };
+		1CC7727B1CF3FA2A00B1B349 /* MBProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 1CC772771CF3FA2A00B1B349 /* MBProgressHUD.bundle */; settings = {ASSET_TAGS = (); }; };
+		1CC7727C1CF3FA2A00B1B349 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 1CC772791CF3FA2A00B1B349 /* MBProgressHUD.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +61,24 @@
 		1C88D1491CB2D02D0021207D /* bananaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = bananaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1C88D14D1CB2D02D0021207D /* bananaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bananaUITests.m; sourceTree = "<group>"; };
 		1C88D14F1CB2D02D0021207D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C88D15B1CB348390021207D /* banana.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = banana.h; sourceTree = "<group>"; };
+		1C88D15C1CB348390021207D /* banana.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = banana.m; sourceTree = "<group>"; };
+		1C88D15E1CB35BAC0021207D /* DrawCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawCircle.h; sourceTree = "<group>"; };
+		1C88D15F1CB35BAC0021207D /* DrawCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawCircle.m; sourceTree = "<group>"; };
+		1C88D1611CB35EFC0021207D /* QuartHuman.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QuartHuman.h; sourceTree = "<group>"; };
+		1C88D1621CB35EFC0021207D /* QuartHuman.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QuartHuman.m; sourceTree = "<group>"; };
+		1CC772541CF3704F00B1B349 /* QQ图片20160520015706.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "QQ图片20160520015706.png"; sourceTree = "<group>"; };
+		1CC772581CF3EB3100B1B349 /* LoginVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginVC.h; sourceTree = "<group>"; };
+		1CC772591CF3EB3100B1B349 /* LoginVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginVC.m; sourceTree = "<group>"; };
+		1CC7725B1CF3EBC700B1B349 /* ContactTVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContactTVC.h; sourceTree = "<group>"; };
+		1CC7725C1CF3EBC700B1B349 /* ContactTVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContactTVC.m; sourceTree = "<group>"; };
+		1CC7725E1CF3EBE600B1B349 /* addContactVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = addContactVC.h; sourceTree = "<group>"; };
+		1CC7725F1CF3EBE600B1B349 /* addContactVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = addContactVC.m; sourceTree = "<group>"; };
+		1CC772751CF3FA2A00B1B349 /* MBProgressHUD+NJ.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD+NJ.h"; sourceTree = "<group>"; };
+		1CC772761CF3FA2A00B1B349 /* MBProgressHUD+NJ.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+NJ.m"; sourceTree = "<group>"; };
+		1CC772771CF3FA2A00B1B349 /* MBProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MBProgressHUD.bundle; sourceTree = "<group>"; };
+		1CC772781CF3FA2A00B1B349 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		1CC772791CF3FA2A00B1B349 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +129,9 @@
 		1C88D1271CB2D02C0021207D /* banana */ = {
 			isa = PBXGroup;
 			children = (
+				1CC772741CF3FA2A00B1B349 /* MBProgressHUD */,
+				1CC772571CF3EAD900B1B349 /* MediaPlayer */,
+				1CC772561CF3EAA800B1B349 /* ContactContrller */,
 				1C88D12B1CB2D02C0021207D /* AppDelegate.h */,
 				1C88D12C1CB2D02C0021207D /* AppDelegate.m */,
 				1C88D12E1CB2D02C0021207D /* ViewController.h */,
@@ -110,6 +141,12 @@
 				1C88D1361CB2D02C0021207D /* LaunchScreen.storyboard */,
 				1C88D1391CB2D02C0021207D /* Info.plist */,
 				1C88D1281CB2D02C0021207D /* Supporting Files */,
+				1C88D15B1CB348390021207D /* banana.h */,
+				1C88D15C1CB348390021207D /* banana.m */,
+				1C88D15E1CB35BAC0021207D /* DrawCircle.h */,
+				1C88D15F1CB35BAC0021207D /* DrawCircle.m */,
+				1C88D1611CB35EFC0021207D /* QuartHuman.h */,
+				1C88D1621CB35EFC0021207D /* QuartHuman.m */,
 			);
 			path = banana;
 			sourceTree = "<group>";
@@ -117,6 +154,7 @@
 		1C88D1281CB2D02C0021207D /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1CC772541CF3704F00B1B349 /* QQ图片20160520015706.png */,
 				1C88D1291CB2D02C0021207D /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +176,38 @@
 				1C88D14F1CB2D02D0021207D /* Info.plist */,
 			);
 			path = bananaUITests;
+			sourceTree = "<group>";
+		};
+		1CC772561CF3EAA800B1B349 /* ContactContrller */ = {
+			isa = PBXGroup;
+			children = (
+				1CC772581CF3EB3100B1B349 /* LoginVC.h */,
+				1CC772591CF3EB3100B1B349 /* LoginVC.m */,
+				1CC7725B1CF3EBC700B1B349 /* ContactTVC.h */,
+				1CC7725C1CF3EBC700B1B349 /* ContactTVC.m */,
+				1CC7725E1CF3EBE600B1B349 /* addContactVC.h */,
+				1CC7725F1CF3EBE600B1B349 /* addContactVC.m */,
+			);
+			name = ContactContrller;
+			sourceTree = "<group>";
+		};
+		1CC772571CF3EAD900B1B349 /* MediaPlayer */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = MediaPlayer;
+			sourceTree = "<group>";
+		};
+		1CC772741CF3FA2A00B1B349 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				1CC772751CF3FA2A00B1B349 /* MBProgressHUD+NJ.h */,
+				1CC772761CF3FA2A00B1B349 /* MBProgressHUD+NJ.m */,
+				1CC772771CF3FA2A00B1B349 /* MBProgressHUD.bundle */,
+				1CC772781CF3FA2A00B1B349 /* MBProgressHUD.h */,
+				1CC772791CF3FA2A00B1B349 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -245,7 +315,9 @@
 			files = (
 				1C88D1381CB2D02C0021207D /* LaunchScreen.storyboard in Resources */,
 				1C88D1351CB2D02C0021207D /* Assets.xcassets in Resources */,
+				1CC7727B1CF3FA2A00B1B349 /* MBProgressHUD.bundle in Resources */,
 				1C88D1331CB2D02C0021207D /* Main.storyboard in Resources */,
+				1CC772551CF3704F00B1B349 /* QQ图片20160520015706.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,9 +342,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1CC7725D1CF3EBC700B1B349 /* ContactTVC.m in Sources */,
+				1CC7727A1CF3FA2A00B1B349 /* MBProgressHUD+NJ.m in Sources */,
+				1C88D15D1CB348390021207D /* banana.m in Sources */,
+				1CC772601CF3EBE600B1B349 /* addContactVC.m in Sources */,
+				1CC7727C1CF3FA2A00B1B349 /* MBProgressHUD.m in Sources */,
 				1C88D1301CB2D02C0021207D /* ViewController.m in Sources */,
+				1C88D1601CB35BAC0021207D /* DrawCircle.m in Sources */,
 				1C88D12D1CB2D02C0021207D /* AppDelegate.m in Sources */,
 				1C88D12A1CB2D02C0021207D /* main.m in Sources */,
+				1CC7725A1CF3EB3100B1B349 /* LoginVC.m in Sources */,
+				1C88D1631CB35EFC0021207D /* QuartHuman.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -417,6 +497,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Yuan.banana;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -428,6 +509,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Yuan.banana;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -498,6 +580,7 @@
 				1C88D1541CB2D02D0021207D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C88D1551CB2D02D0021207D /* Build configuration list for PBXNativeTarget "bananaTests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +589,7 @@
 				1C88D1571CB2D02D0021207D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C88D1581CB2D02D0021207D /* Build configuration list for PBXNativeTarget "bananaUITests" */ = {
 			isa = XCConfigurationList;
@@ -514,6 +598,7 @@
 				1C88D15A1CB2D02D0021207D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
